@@ -1,3 +1,3 @@
 # DSC-180B-Team6
 
-The codework for our team is actually done on the actual unity and autoware software itself as well as debugging such tools. We aren't running and EDA or methods really for our subdomain so if required we can show work done on unity. 
+We were able to replicate the ThunderHill race track using the Unity 3D game engine and integrated Unity with the track and robot into the LGSVL simulator. Once the integration was complete we were able to see our robot with the Thunderhill Track as our map in the simulator. We were then able to virtualize the functions of the IMU, odometry and lidar sensors and RGB-D cameras to better visualize what our robot perceives in the simulation. Finally we were able to fully visualize what our robot sees with the virtual sensors using Autoware Rviz which displays the location and point cloud map of the vehicle and its surroundings.
